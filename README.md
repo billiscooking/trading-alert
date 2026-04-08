@@ -147,7 +147,7 @@ trading_alert_system/
 ### 近期
 - [ ] iOS 勿擾模式分白天/晚上設定（白天：所有來電響鈴；晚上：只有白名單響鈴）
 - [x] L4 Web App 多帳號問題：改用 GAS API + 靜態 HTML 前端（v3.0.0）
-- [ ] L4 前端部署：把 l4_alert.html 放到可公開存取的位置
+- [x] L4 前端部署：https://billiscooking.github.io/trading-alert/l4_alert.html
 - [ ] Twilio 驗證其他號碼（hui、Bill Sub）：短時間內驗證失敗，之後重試或升級 Pay as you go
 
 ### 後續
