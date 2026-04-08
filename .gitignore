@@ -1,0 +1,5 @@
+# Twilio 憑證
+.env
+
+# GAS 程式碼（本地維護，不推 GitHub）
+*.gs
